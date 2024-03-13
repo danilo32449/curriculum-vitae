@@ -1,0 +1,59 @@
+ 
+
+
+img 
+{
+    width: 200px;
+}
+
+aside
+{
+background-color: rgba(88, 52, 4, 0.416);
+width: :1000 vh;
+padding: top 10px;
+margin-left: 570px;
+margin-top: -930px;  
+text-align:center;
+}
+
+body
+{
+    background-color: rgba(134, 108, 63, 0.484);
+    
+}
+ 
+body
+{
+    margin-left: 50px;       
+
+}
+
+head
+{
+    background-color: rgb(15, 14, 14);
+}
+
+.text-frame
+{
+    border: 6px solid rgb(117, 61, 9);
+    width: 200px;
+    height: 200px;
+}
+ 
+
+  .image-frame 
+  {
+    border: 6px solid rgb(117, 61, 9);
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img 
+{
+    max-width: 100%;
+    max-height: 100%;
+}
+
